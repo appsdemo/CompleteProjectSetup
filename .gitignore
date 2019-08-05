@@ -1,0 +1,6 @@
+/production/.git
+/v1/.git
+/v2/.git
+/production/node_modules
+/v1/node_modules
+/v2/node_modules
